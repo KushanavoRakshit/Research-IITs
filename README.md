@@ -35,6 +35,7 @@ government schemes, NPTEL opportunities, and more.
   professors across IITs, useful for cold-emailing for research positions
 - 🔷 **Professor List for Research Based Internships** — Filtered list
   focused on professors open to taking interns
+- 🔷 **[ProfScout](https://profscout.com)**: Search professors worldwide by research area, ranked by how likely they are to reply to an internship email, with their email addresses. 3 free unlocks, then paid.
 
 ### 🏛️ Government & Institutional Programmes
 - 🔷 **Govt Internships.pdf** — Schemes like CSIR, DRDO, ISRO, BARC,
